@@ -12,11 +12,11 @@ jobs:
       - name: Say hello
         run: |
           echo "Hello World!"
-    steps:
+    
       - name: date
         run: |
           date
-    steps:
+          
       - name: list
         run: |
           ls
